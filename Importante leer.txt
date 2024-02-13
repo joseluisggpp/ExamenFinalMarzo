@@ -1,0 +1,5 @@
+
+Cambiar el nombre de la base de datos "dbname" en el archivo "settings.inc"
+Cambiar el namespaces de Utils.php
+
+No puede haber conexion directa entre Modelo y Vista
